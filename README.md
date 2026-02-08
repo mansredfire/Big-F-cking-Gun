@@ -39,7 +39,7 @@ An end-to-end automated security testing system that discovers vulnerabilities i
 
 Specialized models for OWASP Top 10 categories:
 
-> 💉 SQL Injection · 📜 Cross-Site Scripting · 🔓 Broken Access Control · 🌐 SSRF · ⚙️ Security Misconfiguration · 🔑 Authentication Failures · 🔐 Cryptographic Failures
+> 📜 Standard Vulnerability Types 
 
 ## 📄 Output
 
