@@ -58,7 +58,7 @@ Each confirmed finding produces:
 | Llama 3.1 | MITRE ATT&CK | Docker |
 | XGBoost | OWASP Top 10 | ChromaDB |
 | LightGBM | Sigma | Python |
-| CatBoost | YARA | |
+| CatBoost |
 
 </div>
 
