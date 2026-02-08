@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Multi-Agent AI Security Scanner
+# 🛡️ BFG
 
 **Automated web vulnerability discovery from reconnaissance to bug bounty report**
 
