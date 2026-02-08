@@ -46,7 +46,6 @@ Specialized models for OWASP Top 10 categories:
 Each confirmed finding produces:
 
 - 🧪 Validated **Nuclei template** for reproducible scanning
-- 🚨 **Sigma detection rule** for SOC/SIEM integration
 - 📝 Complete **bug bounty report** with severity scoring, step-by-step reproduction, and remediation recommendations
 
 ## 🛠️ Built With
